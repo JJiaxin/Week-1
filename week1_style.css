@@ -1,0 +1,27 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-color: lightblue;
+}
+div {
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: white;
+}
+
+p {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 20px;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+h3 {
+    font-size: 25px;
+}
